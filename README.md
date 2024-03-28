@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mayaelabed
-- 👀 I’m interested in DevOps
-- 🌱 I’m currently learning Kubernetes
+- 👀 I’m interested in developing and integrating and deploying solutions => DevOps
+- 🌱 I’m currently learning RedHat to get RHCSA
 - 💞️ I’m looking to collaborate on testing and deployment projects 
 - 📫 How to reach me maya.elabed22.05@gmail.com
 
